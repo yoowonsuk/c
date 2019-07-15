@@ -1,0 +1,5 @@
+#Name: Yoo
+#perID: 94
+#number: 010
+#favorite food: jjamppong, sweet and sour pork
+#hobby: soccer
